@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Practice.BuilderPattern/obj
+/Practice.BuilderPattern/bin/Debug/net6.0
+/Practice.CompositPattern/obj
+/Practice.CompositPattern/bin/Debug/net6.0
+/Practice.MediatorPattern.MultipleParticipants/obj
+/Practice.MediatorPattern.MultipleParticipants/bin/Debug/net6.0
+/Practice.MeditorPattern/obj
+/Practice.MeditorPattern/bin/Debug/net6.0
+/Practice.Players/obj
+/Practice.Players/bin/Debug/net6.0
