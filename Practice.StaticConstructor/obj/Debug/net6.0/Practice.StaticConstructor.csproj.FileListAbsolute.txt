@@ -1,0 +1,15 @@
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\bin\Debug\net6.0\Practice.StaticConstructor.exe
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\bin\Debug\net6.0\Practice.StaticConstructor.deps.json
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\bin\Debug\net6.0\Practice.StaticConstructor.runtimeconfig.json
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\bin\Debug\net6.0\Practice.StaticConstructor.dll
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\bin\Debug\net6.0\Practice.StaticConstructor.pdb
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\Practice.StaticConstructor.csproj.AssemblyReference.cache
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\Practice.StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\Practice.StaticConstructor.AssemblyInfoInputs.cache
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\Practice.StaticConstructor.AssemblyInfo.cs
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\Practice.StaticConstructor.csproj.CoreCompileInputs.cache
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\Practice.StaticConstructor.dll
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\refint\Practice.StaticConstructor.dll
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\Practice.StaticConstructor.pdb
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\Practice.StaticConstructor.genruntimeconfig.cache
+D:\Gaurav\Learnings\ConsoleApps1\Practice.StaticConstructor\obj\Debug\net6.0\ref\Practice.StaticConstructor.dll

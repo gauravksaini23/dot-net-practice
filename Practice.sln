@@ -5,13 +5,15 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice.MeditorPattern", "Practice.MeditorPattern\Practice.MeditorPattern.csproj", "{C7B3B56A-FE03-4DEB-95DC-25998FC2491F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.MediatorPattern.MultipleParticipants", "Practice.MediatorPattern.MultipleParticipants\Practice.MediatorPattern.MultipleParticipants.csproj", "{F948CA1A-C666-4908-A8F3-E7823AE1DE43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice.MediatorPattern.MultipleParticipants", "Practice.MediatorPattern.MultipleParticipants\Practice.MediatorPattern.MultipleParticipants.csproj", "{F948CA1A-C666-4908-A8F3-E7823AE1DE43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.BuilderPattern", "Practice.BuilderPattern\Practice.BuilderPattern.csproj", "{642C5FF6-AC84-4505-B7A2-B48F7702FDE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice.BuilderPattern", "Practice.BuilderPattern\Practice.BuilderPattern.csproj", "{642C5FF6-AC84-4505-B7A2-B48F7702FDE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Players", "Practice.Players\Practice.Players.csproj", "{493056C4-A068-472E-AFFD-734510317E4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice.Players", "Practice.Players\Practice.Players.csproj", "{493056C4-A068-472E-AFFD-734510317E4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.CompositPattern", "Practice.CompositPattern\Practice.CompositPattern.csproj", "{D06BDDE7-2D08-42E4-A2B1-556F70665858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice.CompositPattern", "Practice.CompositPattern\Practice.CompositPattern.csproj", "{D06BDDE7-2D08-42E4-A2B1-556F70665858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.StaticConstructor", "Practice.StaticConstructor\Practice.StaticConstructor.csproj", "{031927AB-2418-41DB-830C-A00CFF394B57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D06BDDE7-2D08-42E4-A2B1-556F70665858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D06BDDE7-2D08-42E4-A2B1-556F70665858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D06BDDE7-2D08-42E4-A2B1-556F70665858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031927AB-2418-41DB-830C-A00CFF394B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031927AB-2418-41DB-830C-A00CFF394B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031927AB-2418-41DB-830C-A00CFF394B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031927AB-2418-41DB-830C-A00CFF394B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
